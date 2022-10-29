@@ -1,4 +1,4 @@
-#### EN - English [(Versão em Português Brasil aqui)](https://github.com/m4rcos-dev/project-shopping-cart-trybe/blob/main/README_pt-br.md)
+#### EN - English [(Versão em Português Brasil aqui)](https://github.com/m4rcos-dev/BackEnd-project-docker-todo-list/blob/main/README_pt-br.md)
 
 <h1 align="center">🎉 Welcome to my docker-todo-list repository </h1>
 
